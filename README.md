@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">luciviq3439</h1>
+<h3 align="center">Reverse Engineering Student</h3>
 
-<!--
-**luciviq3439/luciviq3439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reverse Engineering
+- Windows Internals
+- C++
+- Game Hacking
+
+## 🛠 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,git,vscode" />
+</p>
