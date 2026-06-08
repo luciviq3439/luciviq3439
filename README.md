@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm luciviq3439</h1>
-<h3 align="center">🔍 Reverse Engineering Student</h3>
+<h3 align="center">🔍 Reverse Engineering Teacher</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luciviq3439&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -21,8 +21,8 @@
 Name     : luciviq3439
 Focus    : Reverse Engineering
 Languages: C++, C#, Python
-Interest : Windows Internals, Game Security
-Status   : Learning & Researching
+Interest : Windows Internals, Game Hacking
+Status   : Continuously Improving & Expanding Expertise
 ```
 
 ---
@@ -39,7 +39,7 @@ Status   : Learning & Researching
 
 - 🔍 Reverse Engineering
 - 🖥️ Windows Internals
-- 🎮 Game Security Research
+- 🎮 Game Hacking
 - 🦠 Malware Analysis
 - ⚡ Low Level Programming
 - 🛠 Software Development
