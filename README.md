@@ -42,7 +42,7 @@
 - Reverse Engineering
 - Windows Internals
 - Malware Analysis
-- Game Security Research
+- Game Hacking
 - Low Level Programming
 
 ---
