@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm luciviq3439</h1>
-<h3 align="center">🔍 Reverse Engineering Teacher</h3>
+<h3 align="center">🔍 Reverse Engineering Researcher</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luciviq3439&show_icons=true&theme=tokyonight&hide_border=true" />
