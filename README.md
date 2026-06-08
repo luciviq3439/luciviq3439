@@ -57,7 +57,7 @@ Status   : Continuously Improving & Expanding Expertise
 ## 🏆 GitHub Trophies
 
 <p align="center">
-   <img src="https://github-profile-trophy-git-master-rjy.vercel.app/?username=luciviq3439&theme=tokyonight&no-frame=true" />
+   <img src="https://github-profile-trophy-one.vercel.app/?username=luciviq3439&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
