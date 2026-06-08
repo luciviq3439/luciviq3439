@@ -41,7 +41,7 @@ Status   : Continuously Improving & Expanding Expertise
 - 🖥️ Windows Internals
 - 🎮 Game Hacking
 - 🦠 Malware Analysis
-- ⚡ Low Level Programming
+- ⚡ Middle Level Programming
 - 🛠 Software Development
 
 ---
