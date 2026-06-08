@@ -2,11 +2,11 @@
 <h3 align="center">🔍 Reverse Engineering Researcher</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciviq3439&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luciviq3439&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciviq3439&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luciviq3439&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
